@@ -277,16 +277,11 @@
 		
 			#header
 			{
-				min-height: 155px;
 				position: relative;
 			}
 
 				#header h1
 				{
-					position: absolute;
-					left: 0;
-					bottom: 35px;
-					font-family: 'Lobster', sans-serif;
 					font-size: 2.75em;
 				}
 			
